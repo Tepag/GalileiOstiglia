@@ -5,7 +5,7 @@ step 1:
 
 step 2:
     - Popolare la tabella con alcune righe, inserire con codice SQL 
-    INSERT INTO table_name(fileds) VALUES(valori)
+    INSERT INTO table_name(fields) VALUES(valori)
 
 Step 3:
     - creare una pagina PHP libri.php che visualizzi la tabella utilizzando i framework
